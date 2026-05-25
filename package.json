@@ -30,11 +30,6 @@
     "vite": "^6.3.5"
   }
 }
-"scripts": {
-  "dev": "vite",
-  "build": "vite build",
-  "deploy": "gh-pages -d dist"
-}
 "homepage": "https://inamu3174-droid.github.io/Inamsmagic/"
 "scripts": {
   "dev": "vite",
